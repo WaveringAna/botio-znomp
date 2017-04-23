@@ -1,0 +1,18 @@
+{
+  "repo": "z-classic/z-nomp",
+  "name": "Bot.io (Main)",
+  "handle": "botio",
+  "script_timeout": 3600,
+  "private_dir": "./private",
+  "public_dir": "./public",
+  "port": 9000,
+  "use_queue": true,
+  "host": "aayanl.tech",
+  "whitelist": [
+    "heyrhett",
+    "joshuayabut",
+    "sennevb",
+    "aayanl",
+    "hellcatz"
+  ]
+}

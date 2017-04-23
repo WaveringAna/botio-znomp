@@ -19,7 +19,7 @@ shell.cp(__dirname+'/bot.json', './pool_configs/bot.json');
 shell.echo('>> Copying config.json');
 shell.cp('config_example.json', 'config.json');
 
-shell.echo('>> Running z-nomp for 30 seconds');
+shell.echo('>> Running z-nomp for 60 seconds');
 shell.exec('timeout 30 npm start');
 
 shell.echo('********************************************');
